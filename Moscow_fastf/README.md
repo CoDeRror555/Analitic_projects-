@@ -9,3 +9,5 @@
 * **Определить оптимальное место для кофейни в стиле "Central Perk"**
 ### Используемые инструменты:
 *python, numpy, pandas, math, matplotlib, seaborn, plotly, json, folium, missingno*
+* **
+[*Активный html файл*](https://disk.yandex.ru/d/QinwVK5W64VIUQ)
