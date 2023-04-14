@@ -10,5 +10,7 @@
 - [x] **Проведен анализ текущей лояльности**
 - [x] **Составлены профили критиков и лоялистов компании**
 - [x] **Даны рекомендации по повышению уровня лояльности**
+### Инструменты:
+*Python, SQL, Tableau, sqlalchemy, pandas*
 * **
 [*Рабочий макет в Tableau*](https://public.tableau.com/views/the_mobile_NPS_analitic_corrected/Dashboard12?:language=en-US&:display_count=n&:origin=viz_share_link)
