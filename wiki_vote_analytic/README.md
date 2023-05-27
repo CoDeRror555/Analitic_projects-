@@ -17,4 +17,5 @@
 ### Используемые инструменты:
    * *python, numpy, pandas, matplotlib, seaborn, sklearn*
 * **
+*проект завершен*
 
