@@ -12,4 +12,6 @@
  - [x] **Даны рекомендации по решению проблем**
  ### Инструменты:
  *python, pandas, numpy, matplotlib, seaborn, datetime*
+ **
+ *проект заветшен*
 
